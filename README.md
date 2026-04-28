@@ -1,5 +1,5 @@
 # simulation-of-linked-list
-       **ALGORITHM**  create a node
+       **ALGORITHM**  CREATE A NODE
      START
        create a node
        newnode=malloc(size of node)
@@ -9,7 +9,7 @@
      STOP
 
 
-       **ALGORITHM**   Insert at beginning
+       **ALGORITHM**  INSERT AT BEGINNING
      START
        create newnode
        read value
@@ -18,7 +18,7 @@
        head=newNode
      STOP
 
-       **ALGORITHM**   Inssert at end
+       **ALGORITHM**  INSERT AT END
      START
        create a newnode
        read value
@@ -35,7 +35,7 @@
         END IF
        STOP
 
-        **ALGORITHM**  Delete from beginning
+        **ALGORITHM**  DELETE FROM BEGINNING
        START
         IF head==NULL
         PRINT "list is empty"
