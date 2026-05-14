@@ -73,6 +73,9 @@
      PRINT "element not found"
     STOP
 
+    FLOWCHART 
+    <img width="960" height="1440" alt="Image" src="https://github.com/user-attachments/assets/ab4a5e3e-1b03-42c2-9979-762d87b35557" />
+
 
 
        
